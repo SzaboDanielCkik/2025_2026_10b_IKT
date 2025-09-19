@@ -1,4 +1,4 @@
 print("órai munka")
-nev = "Kis Pista"
+nev = "Nagy Rozália"
 b = True
-a = 12
+a = 13
